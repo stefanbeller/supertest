@@ -5,3 +5,9 @@
 [submodule "entropy"]
 	path = entropy
 	url = ../entropy
+[submodule "anotherone"]
+	path = anotherone
+	url = https://github.com/stefanbeller/entropy
+[submodule "zuletzt"]
+	path = zuletzt
+	url = https://github.com/stefanbeller/entropy
