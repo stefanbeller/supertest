@@ -11,3 +11,6 @@
 [submodule "zuletzt"]
 	path = zuletzt
 	url = https://github.com/stefanbeller/entropy
+[submodule "linux"]
+	path = linux
+	url = git://github.com/torvalds/linux
