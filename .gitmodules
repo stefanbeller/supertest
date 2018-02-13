@@ -1,3 +1,7 @@
+[submodule "non-exist"]
+	path = notexist
+	url = ../notexist
+
 [submodule "git"]
 	path = git
 	url = ../git
