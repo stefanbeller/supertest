@@ -1,10 +1,7 @@
 [submodule "non-exist"]
-	path = notexist
-	url = ../notexist
-
-[submodule "git"]
+	# it is actually git, but the URL is broken
 	path = git
-	url = ../git
+	url = ../notexist
 [submodule "entropy"]
 	path = entropy
-	url = https://github.com/stefanbeller/entropy
+	url = ../entropy
