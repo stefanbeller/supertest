@@ -2,6 +2,9 @@
 	# it is actually git, but the URL is broken
 #	path = git
 #	url = ../notexist
+[submodule "small-thing"]
+	path = git
+	url = test-sub-1
 [submodule "entropy"]
 	path = entropy
 	url = ../entropy
