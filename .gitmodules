@@ -4,7 +4,7 @@
 #	url = ../notexist
 [submodule "small-thing"]
 	path = git
-	url = test-sub-1
+	url = ../test-sub-1
 [submodule "entropy"]
 	path = entropy
 	url = ../entropy
