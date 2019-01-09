@@ -1,7 +1,7 @@
-[submodule "non-exist"]
+#[submodule "non-exist"]
 	# it is actually git, but the URL is broken
-	path = git
-	url = ../notexist
+#	path = git
+#	url = ../notexist
 [submodule "entropy"]
 	path = entropy
 	url = ../entropy
